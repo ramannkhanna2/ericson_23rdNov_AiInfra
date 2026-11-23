@@ -10,3 +10,12 @@ Windows Credentials:
                      Password: $unshine!1
 
 ``
+
+
+``
+
+aws env access : https://catalog.us-east-1.prod.workshops.aws/join?access-code=f76d-01beb8-cb&utm_source=chatgpt.com
+
+gmail ids ..
+
+``
